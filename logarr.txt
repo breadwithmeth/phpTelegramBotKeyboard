@@ -1,0 +1,717 @@
+Array
+(
+    [message] => Меню
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Государственные услуги и меры государственной поддержки
+                            [callback_data] => goverment_services_and_support@ru
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Серсисы
+                            [callback_data] => services@kz
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Объекты бизнеса и коммерческие помещения
+                            [callback_data] => business_commercial_premises@kz
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Проверка статуса обращения
+                            [callback_data] => check_status@kz
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Информация о боте 
+                            [callback_data] => about@kz
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Меню
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Государственные услуги и меры государственной поддержки
+                            [callback_data] => goverment_services_and_support@ru
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Серсисы
+                            [callback_data] => services@ru
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Объекты бизнеса и коммерческие помещения
+                            [callback_data] => business_commercial_premises@ru
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Проверка статуса обращения
+                            [callback_data] => check_status@ru
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Информация о боте 
+                            [callback_data] => about@ru
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Меню
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Государственные услуги и меры государственной поддержки
+                            [callback_data] => goverment_services_and_support@ru
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Серсисы
+                            [callback_data] => services@en
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Объекты бизнеса и коммерческие помещения
+                            [callback_data] => business_commercial_premises@en
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Проверка статуса обращения
+                            [callback_data] => check_status@en
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Информация о боте 
+                            [callback_data] => about@en
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Список разделов предоставляемых услуг гражданам/бизнесу
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Государственные услуги
+                            [callback_data] => goverment_service@ru
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Меры государственной поддержки
+                            [callback_data] => goverment_support@ru
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Вернуться в меню 
+                            [callback_data] => main_menu@ru
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Список разделов предоставляемых услуг гражданам/бизнесуkz
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Государственные услугиkz
+                            [callback_data] => goverment_service@kz
+                        )
+
+                    [1] => Array
+                        (
+                            [text] => Меры государственной поддержкиkz
+                            [callback_data] => goverment_support@kz
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Список разделов предоставляемых сервисов гражданам/бизнесу
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Сервис1 ру
+                            [callback_data] => main_menu@ru
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Сервис 2 ру
+                            [callback_data] => main_menu@ru
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Список разделов предоставляемых сервисов гражданам/бизнесу
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Сервис1 кз
+                            [callback_data] => main_menu@kz
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Сервис 2 кз
+                            [callback_data] => main_menu@kz
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Список разделов предоставляемых услуг гражданам/бизнесу
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Объекты бизнеса
+                            [callback_data] => main_menu@ru
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Коммерческие помещения
+                            [callback_data] => main_menu@ru
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => Список разделов предоставляемых сервисов гражданам/бизнесу
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Сервис1 кз
+                            [callback_data] => main_menu@kz
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Сервис 2 кз
+                            [callback_data] => main_menu@kz
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [message] => <b>Здравствуйте!</b>
+Данный бот предоставляет следующие услуги Управления предпринимательства и индустриально-инновационного развития Павлодарской области: 
+	- информация о государственных услугах и мерах государственной поддержки 
+	- сервисы 
+	- сведения об объектах бизнеса и коммерческих помещений 
+	- проверка статуса обращения 
+ Чтобы вернуться в меню выберите опцию в текстовой строке.
+    [buttons] => Array
+        (
+            [0] => Array
+                (
+                    [0] => Array
+                        (
+                            [text] => Вернуться в меню 
+                            [callback_data] => main_menu@ru
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Государственные услуги и меры государственной поддержки
+                    [callback_data] => goverment_services_and_support@ru
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Серсисы
+                    [callback_data] => services@kz
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Объекты бизнеса и коммерческие помещения
+                    [callback_data] => business_commercial_premises@kz
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Проверка статуса обращения
+                    [callback_data] => check_status@kz
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Информация о боте 
+                    [callback_data] => about@kz
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Государственные услуги и меры государственной поддержки
+                    [callback_data] => goverment_services_and_support@ru
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Серсисы
+                    [callback_data] => services@ru
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Объекты бизнеса и коммерческие помещения
+                    [callback_data] => business_commercial_premises@ru
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Проверка статуса обращения
+                    [callback_data] => check_status@ru
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Информация о боте 
+                    [callback_data] => about@ru
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Государственные услуги и меры государственной поддержки
+                    [callback_data] => goverment_services_and_support@ru
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Серсисы
+                    [callback_data] => services@en
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Объекты бизнеса и коммерческие помещения
+                    [callback_data] => business_commercial_premises@en
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Проверка статуса обращения
+                    [callback_data] => check_status@en
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Информация о боте 
+                    [callback_data] => about@en
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Государственные услуги
+                    [callback_data] => goverment_service@ru
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Меры государственной поддержки
+                    [callback_data] => goverment_support@ru
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Вернуться в меню 
+                    [callback_data] => main_menu@ru
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Государственные услугиkz
+                    [callback_data] => goverment_service@kz
+                )
+
+            [1] => Array
+                (
+                    [text] => Меры государственной поддержкиkz
+                    [callback_data] => goverment_support@kz
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Сервис1 ру
+                    [callback_data] => main_menu@ru
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Сервис 2 ру
+                    [callback_data] => main_menu@ru
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Сервис1 кз
+                    [callback_data] => main_menu@kz
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Сервис 2 кз
+                    [callback_data] => main_menu@kz
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Объекты бизнеса
+                    [callback_data] => main_menu@ru
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Коммерческие помещения
+                    [callback_data] => main_menu@ru
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Сервис1 кз
+                    [callback_data] => main_menu@kz
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Сервис 2 кз
+                    [callback_data] => main_menu@kz
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Вернуться в меню 
+                    [callback_data] => main_menu@ru
+                )
+
+        )
+
+)
+Государственные услуги и меры государственной поддержкиСерсисыОбъекты бизнеса и коммерческие помещенияПроверка статуса обращенияИнформация о боте Государственные услуги и меры государственной поддержкиСерсисыОбъекты бизнеса и коммерческие помещенияПроверка статуса обращенияИнформация о боте Государственные услуги и меры государственной поддержкиСерсисыОбъекты бизнеса и коммерческие помещенияПроверка статуса обращенияИнформация о боте Государственные услугиМеры государственной поддержкиВернуться в меню Государственные услугиkzМеры государственной поддержкиkzСервис1 руСервис 2 руСервис1 кзСервис 2 кзОбъекты бизнесаКоммерческие помещенияСервис1 кзСервис 2 кзВернуться в меню Государственные услуги и меры государственной поддержки
+Серсисы
+Объекты бизнеса и коммерческие помещения
+Проверка статуса обращения
+Информация о боте 
+Государственные услуги и меры государственной поддержки
+Серсисы
+Объекты бизнеса и коммерческие помещения
+Проверка статуса обращения
+Информация о боте 
+Государственные услуги и меры государственной поддержки
+Серсисы
+Объекты бизнеса и коммерческие помещения
+Проверка статуса обращения
+Информация о боте 
+Государственные услуги
+Меры государственной поддержки
+Вернуться в меню 
+Государственные услугиkz
+Меры государственной поддержкиkz
+Сервис1 ру
+Сервис 2 ру
+Сервис1 кз
+Сервис 2 кз
+Объекты бизнеса
+Коммерческие помещения
+Сервис1 кз
+Сервис 2 кз
+Вернуться в меню 

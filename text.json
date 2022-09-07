@@ -1,0 +1,47 @@
+{
+    "main_menu":{
+        "kz":{"message":"Меню", "buttons":[[{"text":"КЗГосударственные услуги и меры государственной поддержки", "callback_data":"goverment_services_and_support@kz"}],
+        [{"text":"СКЗерсисы", "callback_data":"services@kz"}],
+        [{"text":"КЗОбъекты бизнеса и коммерческие помещения", "callback_data":"business_commercial_premises@kz"}],
+        [{"text":"КЗПроверка статуса обращения", "callback_data":"check_status@kz"}],
+        [{"text":"КЗИнформация о боте", "callback_data":"about@kz"}]]},
+        "ru":{"message":"Меню", "buttons":[[{"text":"Государственные услуги и меры государственной поддержки", "callback_data":"goverment_services_and_support@ru"}],
+        [{"text":"Серсисы", "callback_data":"services@ru"}],
+        [{"text":"Объекты бизнеса и коммерческие помещения", "callback_data":"business_commercial_premises@ru"}],
+        [{"text":"Проверка статуса обращения", "callback_data":"check_status@ru"}],
+        [{"text":"Информация о боте", "callback_data":"about@ru"}]]},
+        "en":{"message":"Меню", "buttons":[[{"text":"АнглГосударственные услуги и меры государственной поддержки", "callback_data":"goverment_services_and_support@ru"}],
+        [{"text":"АнглСерсисы", "callback_data":"services@en"}],
+        [{"text":"АнглОбъекты бизнеса и коммерческие помещения", "callback_data":"business_commercial_premises@en"}],
+        [{"text":"АнглПроверка статуса обращения", "callback_data":"check_status@en"}],
+        [{"text":"АнглИнформация о боте", "callback_data":"about@en"}]]}
+    },
+    "goverment_services_and_support":{
+        "ru":{"message":"Список разделов предоставляемых услуг гражданам/бизнесу",
+        "buttons":[[{"text":"Государственные услуги", "callback_data":"goverment_service@ru"}],
+        [{"text":"Меры государственной поддержки", "callback_data":"goverment_support@ru"}],
+        [{"text":"Вернуться в меню", "callback_data":"main_menu@ru"}]]},
+        "kz":{"message":"Список разделов предоставляемых услуг гражданам/бизнесуkz",
+        "buttons":[[{"text":"Государственные услугиkz", "callback_data":"goverment_service@kz"},
+        {"text":"Меры государственной поддержкиkz", "callback_data":"goverment_support@kz"}]]}
+    },
+    "services":{
+        "ru":{"message":"Список разделов предоставляемых сервисов гражданам/бизнесу", 
+        "buttons":[[{"text":"Сервис1 ру", "callback_data":"main_menu@ru"}],
+        [{"text":"Сервис 2 ру", "callback_data":"main_menu@ru"}]]},
+        "kz":{"message":"Список разделов предоставляемых сервисов гражданам/бизнесу", 
+        "buttons":[[{"text":"Сервис1 кз", "callback_data":"main_menu@kz"}],
+        [{"text":"Сервис 2 кз", "callback_data":"main_menu@kz"}]]}
+    },
+    "business_commercial_premises":{
+        "ru":{"message":"Список разделов предоставляемых услуг гражданам/бизнесу", 
+        "buttons":[[{"text":"Объекты бизнеса", "callback_data":"main_menu@ru"}],
+        [{"text":"Коммерческие помещения", "callback_data":"main_menu@ru"}]]},
+        "kz":{"message":"Список разделов предоставляемых сервисов гражданам/бизнесу", 
+        "buttons":[[{"text":"Сервис1 кз", "callback_data":"main_menu@kz"}],
+        [{"text":"Сервис 2 кз", "callback_data":"main_menu@kz"}]]}
+    },
+    "about":{
+        "ru":{"message":"<b>Здравствуйте!</b>\nДанный бот предоставляет следующие услуги Управления предпринимательства и индустриально-инновационного развития Павлодарской области: \n\t- информация о государственных услугах и мерах государственной поддержки \n\t- сервисы \n\t- сведения об объектах бизнеса и коммерческих помещений \n\t- проверка статуса обращения \n Чтобы вернуться в меню выберите опцию в текстовой строке.", "buttons":[[{"text":"Вернуться в меню", "callback_data":"main_menu@ru"}]]}
+    }
+}
