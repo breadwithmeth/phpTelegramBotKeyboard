@@ -122,7 +122,7 @@ function send_buttons($chat_id, $text, $buttons, $forcereply = False){
     $buttonData = array();
     $buttonData = [
         'keyboard' => $buttons
-        , 'one_time_keyboard' => true,
+        , 'one_time_keyboard' => false,
         'force_reply' => $forcereply
     ];
 

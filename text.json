@@ -6,7 +6,7 @@
         [{"text":"КЗПроверка статуса обращения", "callback_data":"check_status@kz"}],
         [{"text":"КЗИнформация о боте", "callback_data":"about@kz"}]]},
         "ru":{"message":"Меню", "buttons":[[{"text":"Государственные услуги и меры государственной поддержки", "callback_data":"goverment_services_and_support@ru"}],
-        [{"text":"Серсисы", "callback_data":"services@ru"}],
+        [{"text":"Сервисы", "callback_data":"services@ru"}],
         [{"text":"Объекты бизнеса и коммерческие помещения", "callback_data":"business_commercial_premises@ru"}],
         [{"text":"Проверка статуса обращения", "callback_data":"check_status@ru"}],
         [{"text":"Информация о боте", "callback_data":"about@ru"}]]},
